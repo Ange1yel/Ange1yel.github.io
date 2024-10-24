@@ -1,0 +1,25 @@
+ .main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ .text-1 {
+            font-size: 10px;
+            color: brown;
+            font-weight: 100;
+            text-align: left;
+            text-decoration: none;
+            font-style: italic;
+            font-family: cursive;
+            border: 2px black solid;
+            border-radius: 5px;
+            background-color: azure;
+        }
+    
